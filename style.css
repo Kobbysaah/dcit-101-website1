@@ -1,0 +1,221 @@
+body{
+  background-color: darkcyan;
+}
+.container nav{
+  text-align: left;
+  width: 100%;
+  height: 0%;
+  width:100%;
+  margin:0;
+  overflow: auto;
+
+}
+
+
+#main-header{
+  background-color: darkcyan;
+  color: white;
+  font-weight: bolder;
+  font-size: 30px;
+  padding-bottom: auto;
+  margin-bottom: 2px;
+  text-decoration: underline;
+  box-sizing: border-box;
+}
+
+#main-nav{
+  min-height:20px ;
+  background-color: darkcyan;
+  margin: 0;
+  padding:0px;
+}
+
+#main-nav a{
+  color: ghostwhite;
+}
+
+#main-nav li{
+  font-style: italic;
+  font-weight: bolder;
+  padding-right: 25px;
+  display: inline;
+  margin-bottom:px;
+  height:1px;
+}
+
+#showcase{
+  background-color: whitesmoke;
+  background-position:center;
+  padding-top: 0px;
+  min-height: 300px;
+  text-align: center;
+  margin: 0px;
+}
+
+#showcase h1{
+  font-size: 50px;
+  padding-bottom: 10px;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#showcase h2{
+  font-size:20px;
+  padding-top:0px;
+}
+#main{
+  color: white;
+  text-decoration: underline;
+  font-weight: bolder;
+  padding-bottom:0px;
+  background-color: darkcyan;
+  float: left;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#main.1{
+  padding-bottom:0px;
+  background-color: whitesmoke;
+  float: left;
+  width: 70%;
+  box-sizing: border-box;
+}
+#main li{
+  padding-right:50px;
+  display:inline;
+  font-weight: bolder;
+  }
+
+#main h2{
+  text-decoration: underline;
+  font-weight: 800;
+  padding: 0;
+  margin: 1px;
+  letter-spacing: 3px;
+  color: white;
+}
+
+
+.block p{
+  text-align: left;
+  font-weight: bolder;
+  font-size: 15px;
+}
+.block{
+  display: inline;
+  line-height: 1.5em;
+  font-weight: bolder;
+  background-color: black;
+  text-align: center;
+  border: 2px solid #ccc;
+  float: left;
+  color: black;
+  width: 250px;
+  height:350px;
+  box-sizing: border-box;}
+
+.block2{
+  display: inline;
+  line-height: 1.5em;
+  font-weight: bolder;
+  background-color: black;
+  text-align: center;
+  border: 2px solid #ccc;
+  float: right;
+  color: black;
+  width: 250px;
+  height:fit-content;
+  box-sizing: border-box;}
+
+
+#sidebar{
+  position: fixed;
+  float:right ;
+  width: 40px;
+  background: black;
+  color: whitesmoke;
+  margin: 0;
+  height: 70px;
+  }
+
+
+#containerall{
+  background-image: url("C:\Users\emmas\Desktop\csscrushcourse\csscheatsheet\css\my website/RRB.png");
+  background-color:black;
+  border:1px;
+ text-align: left;
+  width: 5%;
+  height: 100%;
+}
+
+
+.myDiv {
+  border: 5px outset red;
+  background-image: url(C:\Users\emmas\Desktop\DCIT101_mywebsite\images\mey.png);
+ text-align: center;
+  width:5%;
+  height: 260px;
+
+}
+
+.myDiv2 {
+  border: 5px outset red;
+  background-image: url(C:\Users\emmas\Desktop\DCIT101_mywebsite\images\mey.png);
+ text-align: center;
+  width: 100%;
+  height: 260px;
+  
+}
+
+
+}
+
+.clr{
+  clear: both;
+
+}
+
+.button{
+  margin: 20;
+  color: black;
+  background-color: black;
+  color: white;
+}
+.maq{
+  font-size: 30px;
+  text-decoration: underline;
+  font-weight: bolder;
+  color: whitesmoke;
+}
+
+
+
+.myform label{
+  display:block;
+  align-content: space-between;
+
+}
+
+.myform input[type="text"], .myform textarea{
+  padding: 15px;
+  width: 35%;
+  height: 9.5px;
+  background-color: lightgoldenrodyellow;;
+}
+
+.myform textarea{
+  padding: 15px;
+  width: 35%;
+  height: 40px;
+}
+#main-footer{
+  font-weight: bolder;
+  color: black;
+  background-color: whitesmoke;
+  font-size: 20px;
+  text-align: center;
+  height: 30px;
+  width: 100%;
+}
