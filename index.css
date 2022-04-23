@@ -1,6 +1,7 @@
 body{
   background-image: url(/images/nf.jpeg);
   background-position:center;
+  image-repeat:no-repeat;
 }
 
 .container nav{
