@@ -44,6 +44,7 @@ body{
 }
 
 #showcase{
+  background-image: url(\nf.jpeg);
   background-color: whitesmoke;
   background-position:center;
   padding-top: 0px;
@@ -142,7 +143,6 @@ body{
 
 
 #containerall{
-  background-image: url("C:\Users\emmas\Desktop\csscrushcourse\csscheatsheet\css\my website/RRB.png");
   background-color:black;
   border:1px;
  text-align: left;
@@ -153,7 +153,6 @@ body{
 
 .myDiv {
   border: 5px outset red;
-  background-image: url(C:\Users\emmas\Desktop\DCIT101_mywebsite\images\mey.png);
  text-align: center;
   width:5%;
   height: 260px;
@@ -162,7 +161,6 @@ body{
 
 .myDiv2 {
   border: 5px outset red;
-  background-image: url(C:\Users\emmas\Desktop\DCIT101_mywebsite\images\mey.png);
  text-align: center;
   width: 100%;
   height: 260px;
