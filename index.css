@@ -1,6 +1,7 @@
 body{
   background-image: url(/images/nf.jpeg);
-  background-color: darkcyan;
+    background-image: url(/images/nf.jpeg);
+ 
 }
 .container nav{
   text-align: left;
