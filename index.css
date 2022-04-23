@@ -68,7 +68,7 @@ body{
   padding-top:0px;
 }
 #main{
-  color: white;
+  color: black;
   text-decoration: underline;
   font-weight: bolder;
   padding-bottom:0px;
@@ -124,7 +124,6 @@ body{
   font-weight: bolder;
   background-color: transparent;
   text-align: center;
-  border: 2px solid #ccc;
   float: right;
   color: black;
   width: 250px;
