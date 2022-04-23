@@ -44,7 +44,7 @@ body{
 }
 
 #showcase{
-  background-image: url(images/nf.jpeg);
+  background-image: url(/images/nf.jpeg);
   background-color: whitesmoke;
   background-position:center;
   padding-top: 0px;
