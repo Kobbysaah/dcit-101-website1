@@ -15,7 +15,7 @@ body{
 
 
 #main-header{
-  background-color: darkcyan;
+  background-color: transparent;
   color: white;
   font-weight: bolder;
   font-size: 30px;
@@ -27,7 +27,7 @@ body{
 
 #main-nav{
   min-height:20px ;
-  background-color: darkcyan;
+  background-color: transparent;
   margin: 0;
   padding:0px;
 }
