@@ -160,8 +160,8 @@ body{
 .button{
   margin: 20;
   color: black;
-  background-color: black;
-  color: white;
+  background-color: transparent;
+  color: black;
 }
 .maq{
   font-size: 30px;
